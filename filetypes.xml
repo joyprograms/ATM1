@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Notes" type="PLAIN_TEXT" />
       <mapping pattern="notes" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="OldCode-SparkAlice" type="PLAIN_TEXT" />
       <mapping pattern="post" type="PLAIN_TEXT" />
       <mapping pattern="Noteslogin" type="PLAIN_TEXT" />
